@@ -1,7 +1,9 @@
 # 1C Regression ML Challenge - December, 2017
 Future Sales Prediction Challenge - Kaggle
 
-**This submssion from Dec. 2017 was good for a 0.94x private leaderboard score and 13th place by the close of CY 2017.  Final submission was a bagged version of XGB, LightGBM, and ExtraTreesRegressor (each individually built then averaged by a separate utility script)**
+**This submssion from Dec. 2017 was good for a 0.94x private leaderboard score and 13th place by the close of CY 2017.  Final submission was a bagged version of XGB, LightGBM, and ExtraTreesRegressor (each individually built then averaged by a separate utility script).**
+
+**Start with the submission.py file to see how the final submissions are created; this script calls contest.py (where all of the feature engineering and data cleansing takes place) and build.py (where ML models are constructed and parameterized).  If you want to use the pickle files, which is much faster than loading the CSV files, refer to the pickle.py file.**
 
 [email](mailto:cbenge509@gmail.com)-  cbenge509, 2017
 
