@@ -1,0 +1,50 @@
+# build output
+dist/
+
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+.env.local
+
+# Coding Stuff
+CLAUDE.md
+.mcp.json
+_bmad/
+_bmad-output/
+.agent/
+.claude/
+.gemini/
+undefined:/
+.playwright-mcp/
+playwright-report/
+test-results/
+spec_files.md
+
+# macOS-specific files
+.DS_Store
+
+# JetBrains IDE
+.idea/
+
+# VS Code (keep .vscode for shared settings)
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Test coverage
+coverage/
+
+# Lighthouse reports
+.lighthouseci/
