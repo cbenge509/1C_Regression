@@ -360,7 +360,6 @@ Detailed analysis available in the Jupyter notebooks:
 
 **Cristopher Benge**
 [![GitHub](https://img.shields.io/badge/GitHub-cbenge509-181717?style=flat&logo=github)](https://github.com/cbenge509)
-[![Email](https://img.shields.io/badge/Email-cbenge509%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:cbenge509@gmail.com)
 
 ---
 
